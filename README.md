@@ -1,4 +1,5 @@
-# mern-expense-tracker-server
+# expense_server
+
 
 ### Description
 
